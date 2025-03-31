@@ -2,3 +2,5 @@
 __pycache__/
 venv/
 *.pkl
+blacklist.txt
+spam_dataset.csv
